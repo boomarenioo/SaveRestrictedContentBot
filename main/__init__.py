@@ -12,8 +12,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = 9053215
-API_HASH = 59733a71c52a90d8fc061ad6bf2cd562
+API_ID = 9058215
+API_HASH = 59595a71c32a90d3fc061ad0bf9cd966
 BOT_TOKEN = 5900683105:AAE7yotJmR7oidG9EVM9vaMPK2NswdrJyFc
 SESSION = BAC6mTqun9ryQAwefmIHihnNeASV8SYjQhhKrz-wOmbNbehJYGO4zzlSVO8gdmYBITedDY7J7JTz2jtPcUr8OHRWVSPYFLamIC5HxDxsa5QzL37dqvaGerMFAMpwQBpfusWlugb587yJfMK7XvD5HgK0-AzBzDfsZKlWlkVVE1opqdmYJmbcf__u0wVpyZ10JuLqbjrA7acb_4jPzdLY7T_FOeQ5bI91XLtcC3604IxxgnbZhRYwT44ikaF5RxvxaWeuNHb3n3RACiq03lyyXTSBcXbILWoqM0Bci4VGUgf-0M92FNoE7TzhGEIkD_wZxFUuLcR59ZJ4Uiifw8CuF9tNKoi9kwA
 FORCESUB = config("FORCESUB", default=None)
